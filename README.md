@@ -39,3 +39,8 @@ ORDER BY 1, 2
 Conclusión del Análisis
 
 Los datos muestran una caída más pronunciada en el salto explosivo que en la fuerza de agarre a medida que aumenta la edad. Esto tiene una explicación fisiológica clara (pérdida de fibras rápidas), y poder visualizarlo con SQL me permite fundamentar la teoría con evidencia estadística sólida.
+
+Contacto:
+
+linkedin: https://www.linkedin.com/in/franco-velardez04
+github: francovelardez44
